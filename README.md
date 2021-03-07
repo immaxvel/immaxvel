@@ -1,5 +1,7 @@
-### Hi there 👋
-
+#👋 Hi, my name is **Maxim Velichko**!
+## I'm a beginner *Front-end developer* from Minsk.
+### Languages and Technologies
+![HTML](https://img.shields.io/badge/-HTML-090909&style=for-the-badge&logo=html5)
 <!--
 **immaxvel/immaxvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
